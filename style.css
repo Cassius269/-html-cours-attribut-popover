@@ -1,0 +1,18 @@
+#my-popover {
+    height: 80vh;
+    width: 80vw;
+    text-align: center;
+    flex-direction: revert;
+    align-content: center;
+    background-color: rgb(224, 219, 210);
+    p {
+        background-color: rgb(220, 142, 17);
+        padding: 10rem 0;
+    }
+
+    #exitButton {
+        position: relative;
+        bottom: 145px;
+        left: 589px;
+    }
+}
